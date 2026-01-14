@@ -26,7 +26,7 @@ Wir haben das Ganze in **Python** gebaut. Hier sind unsere wichtigsten Werkzeuge
 ## Selbst ausprobieren
 Wir haben ein kleines GUI programmiert, so dass der Code einfach zu benutzten ist. Dadurch muss man keine Terminal oder Commands benutzten.
 [Hier geht es zur DCGAN GUI](https://github.com/MaximSpeczyk/KI-Projekt-Hochschule-Duesseldorf-WS25-26/blob/main/Train_Generate/dcgan_gui.py)
-Natürlich müssen die geforderten Liabrys vorhanden sein.
+Natürlich müssen die geforderten Libarys vorhanden sein.
 
 ## 👥 Die Autoren
 
