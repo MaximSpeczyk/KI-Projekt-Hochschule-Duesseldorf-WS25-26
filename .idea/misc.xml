@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Black">
-    <option name="sdkName" value="Python 3.14 (PyCharmMiscProject)" />
+    <option name="sdkName" value="Python 3.14" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.14 (PyCharmMiscProject)" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.14 virtualenv at C:\Users\maxim\OneDrive\Documents\Uni\Master\Semester 2\KI\KI-Projekt-Hochschule-Duesseldorf-WS25-26\Train_Generate\.venv" project-jdk-type="Python SDK" />
 </project>
