@@ -1,6 +1,6 @@
 # 🕵️‍♂️ Clustering: MNIST vs. CIFAR-10
 
-Willkommen in unserem Repo! Dieses Projekt entstand im Rahmen unseres Mastermoduls "Künstliche Intelligenz" (PO2022).
+Willkommen in unserem Repo! Dieses Projekt entstand im Rahmen unseres Mastermoduls "Künstliche Intelligenz".
 
 **Die Kernfrage:** Können wir Computer dazu bringen, Bilder sinnvoll zu gruppieren, ohne ihnen vorher zu sagen, was auf den Bildern zu sehen ist? (Unsupervised Learning)
 
